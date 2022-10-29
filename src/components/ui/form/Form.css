@@ -1,0 +1,13 @@
+.form-wrapper {
+  width: 100%;
+  height: 93.3vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-item {
+  background-color: rgba(199, 198, 198, 0.2);
+  padding: 40px 60px;
+  border-radius: 8px;
+}
